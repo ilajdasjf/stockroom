@@ -1,0 +1,9 @@
+sku,name,category,quantity,minimum,price
+OFF-001,Hardcover notebook,Office,35,10,4.50
+OFF-002,Blue ballpoint pens,Office,8,12,1.20
+TEC-001,Wireless mouse,Technology,16,5,24.99
+TEC-002,USB-C cable,Technology,4,8,9.50
+TEC-003,Desk keyboard,Technology,12,4,39.90
+KIT-001,Ceramic mug,Kitchen,24,6,6.75
+KIT-002,Coffee beans 250g,Kitchen,0,5,12.00
+OFF-003,Desk organizer,Office,18,5,14.25
